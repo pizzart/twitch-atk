@@ -12,6 +12,8 @@ pretty much says it all in the title. twitch chat can use commands to control an
 - copy the client secret and paste it into an empty file called `token.txt` in that same folder (make sure the file only has a single line in it)
 - also make sure to replace the `TARGET_CHANNEL` in the script with your own twitch username
 - you should be ready to go
+## notes
+you can replace WALL-E.exe in the script for any other game ATK supports
 ## credits
 - https://github.com/widberg - for creating ATK (literally the backbone of this script)
 - https://github.com/Geljado - for creating ATK-UI (code for communicating with ATK is from there lol)
